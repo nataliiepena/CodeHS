@@ -1,0 +1,248 @@
+html {
+     background-color:#A4D6F7;
+}
+
+body {
+    font-family: Barlow Condensed;
+}
+
+h1, h2 {
+    color:#F18888;
+    font-size:50px;
+    font-family:Luckiest Guy;
+}
+
+h3 {
+    color:#F18888;
+    font-size:30px;
+    font-family:Luckiest Guy;
+}
+
+h4 {
+    color:#F18888;
+    font-size:25px;
+    font-family:Luckiest Guy;
+}
+
+b {
+    color:#F18888;
+}
+
+p {
+    font-size:25px;
+}
+
+ul {
+    font-size:25px;
+}
+
+
+img {
+    height:50%;
+    width:50%;
+    padding-right:50px;
+}
+
+span {
+    font-size:24px;
+}
+
+.my-classes {
+    column-count:3;
+    column-gap:40px;
+    font-size:25px;
+    margin:auto;
+    width:100%;
+}
+
+
+
+tr th{
+    font-size:30px;
+    color:#F18888;
+    text-align:left;
+    font-family:Luckiest Guy;
+}
+
+tr td {
+}
+
+
+body {
+    margin:auto;
+    padding-top:15px;
+    padding-bottom:15px;
+    padding-left:150px;
+    padding-right:150px;
+}
+
+.photos-iframes{
+    border-radius:25px;
+}
+
+
+.drives {
+    width:250px;
+    height:300px;
+}
+
+.music {
+    font-size:16px;
+    text-align:center;
+}
+
+
+/*INDEX.HTML BUTTON CSS*/
+
+/* Navbar container */
+.navbar {
+  overflow: hidden;
+  background-color: #F18888;
+  font-family: Luckiest Guy;
+  margin: auto;
+  border-radius:25px;
+}
+
+/* Links inside the navbar */
+.navbar a {
+  float: left;
+  font-size: 20px;
+  color: white;
+  text-align: center;
+  padding: 15px 25px;
+  text-decoration: none;
+  text-align:center;
+}
+
+/* Add a red background color to navbar links on hover */
+.navbar a:hover, .dropdown:hover .dropbtn {
+  background-color: white;
+  color: #F18888;
+  text-align:center;
+  
+}
+
+/* Dropdown content (hidden by default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: center;
+}
+
+/* Add a grey background color to dropdown links on hover */
+.dropdown-content a:hover {
+  background-color: #ddd;
+}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+
+
+
+
+
+
+
+
+/*ACADEMICS BUTTON*/
+
+.btn, .btn-default {
+  background-color:#F18888;
+  border: none;
+  color: white;
+  padding: 20px 43px;
+  text-decoration: none;
+  display: inline-block;
+  font-size:3px;
+  border-radius:12px;
+  font-size: 20px;
+  font-family:Luckiest Guy;
+}
+
+.btn:hover, .btn-default:hover{
+    background-color:white;
+    color:#F18888;
+}
+
+
+
+/*SOCIAL MEDIA BUTTONS*/
+.social{
+    display:inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    height:250px;
+    width:250px;
+}
+
+#social-table{
+    align:center;
+}
+
+
+/*OVERFLOW*/
+div.ex1 {
+  width: 330px;
+  height:330px;
+  overflow: scroll;
+  border:solid;
+  border-color:#F18888;
+  padding-left:10px;
+  padding-right:10px;
+  margin:auto;
+  border-radius:25px
+}
+
+div.ex2 {
+  width: 280px;
+  height: 310px;
+  overflow: scroll;
+  border:solid;
+  border-color:#F18888;
+  padding-left:10px;
+  padding-right:10px;
+  margin:auto
+  border-radius:25px;
+  fit:100%;
+}
+
+.likes-table {
+    fit:100%;
+    align:center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
